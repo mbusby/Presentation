@@ -6,6 +6,10 @@ The RNA Seq stuff is in collaboration with Gabor Marth's lab and Broad Technolog
 
 Don't use it without citing me unless I tell you you can. 
 
+If you are looking to understand basic RNA Seq design don't use the presentations. Use this Tumblr post:
+
+http://michelebusby.tumblr.com/post/26913184737/thinking-about-designing-rna-seq-experiments-to
+
 UmassCSMbusby.pptx
 
 This is a long presentation that is mostly about RNA Seq power analysis and experimental design. I gave it to the CS and bio department at UMass Boston (which has the most beautiful campus and has some really great people). This contains most of the Scotty Supplement, which is good as it's not working on the publisher's site.
